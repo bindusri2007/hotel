@@ -1,0 +1,29 @@
+Hotel Booking Dashboard – Step-by-Step Procedure
+
+1.  I opened Power BI Desktop and imported the cleaned hotel booking
+    dataset from Excel.
+2.  After loading the data, I checked the columns and verified that the
+    data types were correct.
+3.  I created a new report page and gave the dashboard the title “Hotel
+    Booking Dashboard”.
+4.  I added slicers for Hotel, Country, Arrival Year, Arrival Month,
+    Market Segment, Customer Type, Booking Status, and Deposit Type.
+5.  I created KPI cards to display Total Bookings, Total Revenue, Total
+    Guests, Average Daily Rate (ADR), and Confirmed vs Cancelled ratio.
+6.  I inserted a clustered bar chart to show Bookings by Hotel Type
+    (City Hotel and Resort Hotel).
+7.  I added a doughnut chart to display bookings by Market Segment.
+8.  I created a pie chart to compare Confirmed and Cancelled bookings.
+9.  I inserted a column chart to display Monthly Bookings using Arrival
+    Month.
+10. I created a line chart to analyse the Revenue Trend by month.
+11. I added a horizontal bar chart to analyse bookings by Customer Type.
+12. I formatted all visuals by adjusting titles, colours, labels,
+    borders, and alignment.
+13. I arranged the visuals neatly on the report page to improve
+    readability.
+14. I tested all slicers to ensure they filtered every visual correctly.
+15. Finally, I reviewed the dashboard, saved the Power BI report, and
+    confirmed that it provides an interactive analysis of hotel
+    bookings, revenue, customer types, market segments, and booking
+    status.
